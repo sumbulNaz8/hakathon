@@ -1,7 +1,7 @@
 
 import Image from "next/image"
 
-const page1 = ()=>{
+const page2 = ()=>{
  return (
     <div>
        <Image src="/images/sumb.png" alt="logo" width={1050} height={724} />
